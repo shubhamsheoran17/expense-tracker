@@ -1,0 +1,6 @@
+.auth-page {
+  background-image: url('../assets/login-image.avif');
+  background-size: cover;
+  background-position: center;
+  height: 100vh;
+}
