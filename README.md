@@ -68,8 +68,8 @@ npm install
 
 ```bash
 In /expense-tracker-backend/, create a .env file:
-PORT=5000
-MONGO_URI=your_mongodb_atlas_connection_string
+PORT=3000
+MONGODB_URI=your_mongodb_atlas_connection_string
 JWT_SECRET=your_jwt_secret_key
 ```
 
